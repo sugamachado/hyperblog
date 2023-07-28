@@ -1,5 +1,7 @@
 Esta es la historia de Agustina Machado
 
-Agustina Machado tiene 25 años y nacio en Argentina
+Agustina Machado tiene 26 años y nacio en Uruguay
 
-Mañana nos enfocaremos en su vidda laboral 
+Mañana nos enfocaremos en su vida laboral
+
+Hoy 28.07.2023 ha hecho una copia ssh de la carpeta somosnlp
